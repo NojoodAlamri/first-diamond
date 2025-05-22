@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="872704e1-b30c-4d38-bc77-a78f1ccf5e81" name="Changes" comment="aa">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -13,13 +14,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/minify/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/minify/vendor/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/minify/vendor/matthiasmullie/minify" />
+      <path value="$PROJECT_DIR$/minify/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -77,7 +85,10 @@
       <workItem from="1747220511815" duration="3892000" />
       <workItem from="1747298505421" duration="3627000" />
       <workItem from="1747309464613" duration="2800000" />
-      <workItem from="1747321083096" duration="2131000" />
+      <workItem from="1747321083096" duration="2840000" />
+      <workItem from="1747547816858" duration="639000" />
+      <workItem from="1747561020871" duration="36000" />
+      <workItem from="1747891084336" duration="308000" />
     </task>
     <servers />
   </component>
